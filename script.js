@@ -11,6 +11,8 @@ function setColor() {
 	 + ", "
 	 + color2.value 
 	 + ")";
+
+	 css.textContent = backgrd.style.background;
 }
 
 
